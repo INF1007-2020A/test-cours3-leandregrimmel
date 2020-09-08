@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
-    nom[0].upper
-    for i in range(len(nom)):
-        nom[i].lower
-        print("r")
+    nom.title
     return nom
 
  
