@@ -7,7 +7,7 @@ def capitaliser_pays(nom):
         print("r")
     return nom
 
-
+ 
 if __name__ == '__main__':
     pays = [
         'AfghanIstan',
