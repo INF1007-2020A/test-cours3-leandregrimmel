@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
     nom[0].upper
-    for i in range(len(nom))
+    for i in range(len(nom)):
+        nom[i].lower
     return nom
 
 
