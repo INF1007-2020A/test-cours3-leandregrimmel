@@ -3,7 +3,7 @@
 import string 
 
 def capitaliser_pays(nom):
-    nom[0].lower
+    nom[0:].lower
     return nom
 
  
